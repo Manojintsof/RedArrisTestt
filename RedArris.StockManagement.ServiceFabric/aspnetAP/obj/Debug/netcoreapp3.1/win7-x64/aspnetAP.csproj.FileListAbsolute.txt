@@ -1,0 +1,9 @@
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\bin\Debug\netcoreapp3.1\win7-x64\appsettings.Development.json
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\bin\Debug\netcoreapp3.1\win7-x64\appsettings.json
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\bin\Debug\netcoreapp3.1\win7-x64\Properties\launchSettings.json
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\obj\Debug\netcoreapp3.1\win7-x64\aspnetAP.csprojAssemblyReference.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\obj\Debug\netcoreapp3.1\win7-x64\aspnetAP.AssemblyInfoInputs.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\obj\Debug\netcoreapp3.1\win7-x64\aspnetAP.AssemblyInfo.cs
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\obj\Debug\netcoreapp3.1\win7-x64\aspnetAP.RazorTargetAssemblyInfo.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\obj\Debug\netcoreapp3.1\win7-x64\staticwebassets\aspnetAP.StaticWebAssets.Manifest.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\aspnetAP\obj\Debug\netcoreapp3.1\win7-x64\staticwebassets\aspnetAP.StaticWebAssets.xml

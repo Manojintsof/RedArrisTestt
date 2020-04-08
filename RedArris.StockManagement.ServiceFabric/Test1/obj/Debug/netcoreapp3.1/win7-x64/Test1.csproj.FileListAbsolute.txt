@@ -1,0 +1,2 @@
+D:\Test\RedArris.StockManagement.ServiceFabric\Test1\obj\Debug\netcoreapp3.1\win7-x64\Test1.AssemblyInfoInputs.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\Test1\obj\Debug\netcoreapp3.1\win7-x64\Test1.AssemblyInfo.cs

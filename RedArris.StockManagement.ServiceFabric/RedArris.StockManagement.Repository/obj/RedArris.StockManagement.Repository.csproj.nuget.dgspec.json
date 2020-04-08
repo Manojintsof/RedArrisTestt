@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Repository\\RedArris.StockManagement.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Entity\\RedArris.StockManagement.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Entity\\RedArris.StockManagement.Entity.csproj",
+        "projectName": "RedArris.StockManagement.Entity",
+        "projectPath": "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Entity\\RedArris.StockManagement.Entity.csproj",
+        "packagesPath": "C:\\Users\\MALLIKHARJUNARAO\\.nuget\\packages\\",
+        "outputPath": "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MALLIKHARJUNARAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Repository\\RedArris.StockManagement.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Repository\\RedArris.StockManagement.Repository.csproj",
+        "projectName": "RedArris.StockManagement.Repository",
+        "projectPath": "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Repository\\RedArris.StockManagement.Repository.csproj",
+        "packagesPath": "C:\\Users\\MALLIKHARJUNARAO\\.nuget\\packages\\",
+        "outputPath": "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MALLIKHARJUNARAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Entity\\RedArris.StockManagement.Entity.csproj": {
+                "projectPath": "D:\\Test\\RedArris.StockManagement.ServiceFabric\\RedArris.StockManagement.Entity\\RedArris.StockManagement.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

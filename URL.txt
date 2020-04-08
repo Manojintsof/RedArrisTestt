@@ -1,0 +1,2 @@
+https://sandbox.iexapis.com/stable/stock/twtr/chart/date/20190604?token=Tpk_5ba5a5bd6c754893a3723e3a7c0c6588
+http://localhost:9038/api/Stockmanager/historicdata/symbol=dddd/startDate=20200406/endDate=20200505

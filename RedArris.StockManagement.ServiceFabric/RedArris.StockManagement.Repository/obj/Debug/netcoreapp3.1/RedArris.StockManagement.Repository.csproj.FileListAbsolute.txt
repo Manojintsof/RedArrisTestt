@@ -1,0 +1,12 @@
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\bin\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.deps.json
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\bin\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.dll
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\bin\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.pdb
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\bin\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.dll
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\bin\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.pdb
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.csprojAssemblyReference.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.csproj.CoreCompileInputs.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.AssemblyInfoInputs.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.AssemblyInfo.cs
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.csproj.CopyComplete
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.dll
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Repository\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Repository.pdb

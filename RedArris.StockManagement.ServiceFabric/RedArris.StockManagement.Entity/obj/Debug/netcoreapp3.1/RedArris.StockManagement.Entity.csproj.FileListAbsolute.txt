@@ -1,0 +1,9 @@
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\bin\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.deps.json
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\bin\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.dll
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\bin\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.pdb
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.csproj.CoreCompileInputs.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.AssemblyInfoInputs.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.AssemblyInfo.cs
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.dll
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.pdb
+D:\Test\RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.Entity\obj\Debug\netcoreapp3.1\RedArris.StockManagement.Entity.csprojAssemblyReference.cache

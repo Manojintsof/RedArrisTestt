@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "RedArris.StockManagement.ServiceFabric", "RedArris.StockManagement.ServiceFabric\RedArris.StockManagement.ServiceFabric.sfproj", "{7B76A282-514B-4086-9A8F-2304C82C826D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedArris.StockManagement.API", "RedArris.StockManagement.API\RedArris.StockManagement.API.csproj", "{426BD9EE-2650-45D2-AC6E-240441703CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArris.StockManagement.Repository", "RedArris.StockManagement.Repository\RedArris.StockManagement.Repository.csproj", "{AD49BBC9-7A93-4BD0-9178-044691476D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedArris.StockManagement.Entity", "RedArris.StockManagement.Entity\RedArris.StockManagement.Entity.csproj", "{59D93419-95CF-4159-88C8-2A42F4B765C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B76A282-514B-4086-9A8F-2304C82C826D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{7B76A282-514B-4086-9A8F-2304C82C826D}.Debug|x64.ActiveCfg = Debug|x64
+		{7B76A282-514B-4086-9A8F-2304C82C826D}.Debug|x64.Build.0 = Debug|x64
+		{7B76A282-514B-4086-9A8F-2304C82C826D}.Debug|x64.Deploy.0 = Debug|x64
+		{7B76A282-514B-4086-9A8F-2304C82C826D}.Release|Any CPU.ActiveCfg = Release|x64
+		{7B76A282-514B-4086-9A8F-2304C82C826D}.Release|x64.ActiveCfg = Release|x64
+		{7B76A282-514B-4086-9A8F-2304C82C826D}.Release|x64.Build.0 = Release|x64
+		{7B76A282-514B-4086-9A8F-2304C82C826D}.Release|x64.Deploy.0 = Release|x64
+		{426BD9EE-2650-45D2-AC6E-240441703CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426BD9EE-2650-45D2-AC6E-240441703CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426BD9EE-2650-45D2-AC6E-240441703CE2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{426BD9EE-2650-45D2-AC6E-240441703CE2}.Debug|x64.Build.0 = Debug|Any CPU
+		{426BD9EE-2650-45D2-AC6E-240441703CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426BD9EE-2650-45D2-AC6E-240441703CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426BD9EE-2650-45D2-AC6E-240441703CE2}.Release|x64.ActiveCfg = Release|Any CPU
+		{426BD9EE-2650-45D2-AC6E-240441703CE2}.Release|x64.Build.0 = Release|Any CPU
+		{AD49BBC9-7A93-4BD0-9178-044691476D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD49BBC9-7A93-4BD0-9178-044691476D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD49BBC9-7A93-4BD0-9178-044691476D23}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AD49BBC9-7A93-4BD0-9178-044691476D23}.Debug|x64.Build.0 = Debug|Any CPU
+		{AD49BBC9-7A93-4BD0-9178-044691476D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD49BBC9-7A93-4BD0-9178-044691476D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD49BBC9-7A93-4BD0-9178-044691476D23}.Release|x64.ActiveCfg = Release|Any CPU
+		{AD49BBC9-7A93-4BD0-9178-044691476D23}.Release|x64.Build.0 = Release|Any CPU
+		{59D93419-95CF-4159-88C8-2A42F4B765C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D93419-95CF-4159-88C8-2A42F4B765C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D93419-95CF-4159-88C8-2A42F4B765C9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{59D93419-95CF-4159-88C8-2A42F4B765C9}.Debug|x64.Build.0 = Debug|Any CPU
+		{59D93419-95CF-4159-88C8-2A42F4B765C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D93419-95CF-4159-88C8-2A42F4B765C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D93419-95CF-4159-88C8-2A42F4B765C9}.Release|x64.ActiveCfg = Release|Any CPU
+		{59D93419-95CF-4159-88C8-2A42F4B765C9}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6A2788-1B38-4EF6-B253-8CBDE884AE8C}
+	EndGlobalSection
+EndGlobal

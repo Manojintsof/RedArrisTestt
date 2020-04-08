@@ -1,0 +1,8 @@
+D:\Test\RedArris.StockManagement.ServiceFabric\Web1\bin\Debug\netcoreapp3.1\win7-x64\appsettings.Development.json
+D:\Test\RedArris.StockManagement.ServiceFabric\Web1\bin\Debug\netcoreapp3.1\win7-x64\appsettings.json
+D:\Test\RedArris.StockManagement.ServiceFabric\Web1\bin\Debug\netcoreapp3.1\win7-x64\Properties\launchSettings.json
+D:\Test\RedArris.StockManagement.ServiceFabric\Web1\obj\Debug\netcoreapp3.1\win7-x64\Web1.AssemblyInfoInputs.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\Web1\obj\Debug\netcoreapp3.1\win7-x64\Web1.AssemblyInfo.cs
+D:\Test\RedArris.StockManagement.ServiceFabric\Web1\obj\Debug\netcoreapp3.1\win7-x64\Web1.RazorTargetAssemblyInfo.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\Web1\obj\Debug\netcoreapp3.1\win7-x64\staticwebassets\Web1.StaticWebAssets.Manifest.cache
+D:\Test\RedArris.StockManagement.ServiceFabric\Web1\obj\Debug\netcoreapp3.1\win7-x64\staticwebassets\Web1.StaticWebAssets.xml
